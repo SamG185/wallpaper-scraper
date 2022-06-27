@@ -1,0 +1,5 @@
+TODO:
+
+User input from list of categories that the website offers.
+Download random image from scraped files to a folder on the PC
+Set that random image to be my wallpaper

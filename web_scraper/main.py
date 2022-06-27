@@ -1,6 +1,11 @@
-import scraper
+import util
 
 
 
-mylist = scraper.getListOfWallpapers()
+
+mylist = util.getListOfWallpapers()
+
+wallpaperURL = util.getRandomWallpaper(mylist)
+
+util.writeImageToFile(wallpaperURL)
 
