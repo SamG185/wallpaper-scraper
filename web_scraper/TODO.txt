@@ -1,5 +1,5 @@
 TODO:
 
 User input from list of categories that the website offers.
-Download random image from scraped files to a folder on the PC
-Set that random image to be my wallpaper
+Check orientation of the file downloaded and reorient it to landscape if it is portrait (extension, give the user the choice later on depending on their screen orientation)
+Set that random image to be my wallpaper (extension, ask user if they like the wallpaper whislt providig a preview, if not, don't download the file and download a different one)
