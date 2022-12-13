@@ -1,5 +1,5 @@
 TODO:
 
-User input from list of categories that the website offers.
-Check orientation of the file downloaded and reorient it to landscape if it is portrait (extension, give the user the choice later on depending on their screen orientation)
-Set that random image to be my wallpaper (extension, ask user if they like the wallpaper whislt providig a preview, if not, don't download the file and download a different one)
+EXTENSION WORK:
+Allow to user to preview the image before saving/setting it.
+Give the user the choice of orientation depending on their screen orientation (allow them to rotate the image)
